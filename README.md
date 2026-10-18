@@ -1,1 +1,1 @@
-# Rag_ICC_WC_26
+## This assignment presents a comparative analysis of two Retrieval-Augmented Generation (RAG) architectures, evaluating their performance across three core benchmarks: system correctness, architectural scaling, and end-to-end latency.
